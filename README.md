@@ -1,4 +1,4 @@
-# CryptoDroid
+# Digital Steganography
 
 ### What is it about?
 
@@ -22,11 +22,11 @@ cryptography. We have identified two algorithms for each of the modules.
 
 # How to Run
 
-To run the project from the command line, go to the [dist](https://github.com/AbhishekHari29/CryptoDroid/tree/main/dist) folder and
+To run the project from the command line, go to the [dist](https://github.com/Akshayasaran/Digital-Steganography/tree/main/dist) folder and
 type the following:
 
 ```bash
-java -jar "CryptoDroid.jar"
+java -jar "Digital_Steganography.jar"
 ```
 
 This project is build using Netbeans 8.2 RC.
